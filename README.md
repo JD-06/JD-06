@@ -36,7 +36,9 @@ I enjoy working with a variety of languages, but these are my top picks:
 ### Certifications
 <img src="./assets/uxcertification.png">
 <img src="./assets/odoocertification.png">
+
 ---
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
