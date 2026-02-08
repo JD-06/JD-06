@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Certifications
-![Logo](/assets/logo.png)
+![Logo](/assets/Screenshot 2026-02-08 162351.png)
